@@ -6,8 +6,6 @@ Bass: Berdien
 Orff: Sien
 Gitaar: Pieter
 Synth: Muziekpiet
-
-Spelen bij voorstelling muziekpiet
 -----
 G              A      D  
 Zonder hoop en zonder eten
