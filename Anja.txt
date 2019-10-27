@@ -7,13 +7,13 @@ Orff: Sien
 Gitaar: Pieter
 Synth: Muziekpiet
 -----
-F              G      C  
+G              A      D  
 Zonder hoop en zonder eten
-F              G      C
+G              A      D
 Stuurde jij me weer naar bed
-F                     G         C
+G                     A         D
 Want ik ben stout en de stoute kind'ren
-F                    G        C
+G                    A        D
 Die moeten altijd vroeg naar bed
 Anja, de laatste dans
 Die moet je mij nog schenken
@@ -23,13 +23,13 @@ En de maan schijnt door de bomen
 De brave mensen gaan naar de zee
 Ik zie ze rijden op hun brommers
 Ze hebben lol en ik mag niet mee
-F           G      C
+G           A      D
 Anja, de laatste dans
-      F                   G  C    
+      G                   A  D    
 Die moet je me nog schenken
-      F      G     C
+      G      A     D
 Anja, de laatste dans
-      F                     G C
+      G                     A D
 Die moet je mij nog schenken
 Anja, de laatste dans
 Die moet je me nog schenken
@@ -39,5 +39,5 @@ Ik blijf je altijd trouw
 En als het donker wordt
 En je niet meer weet
 Waarom het ooit begon
-               F        GC
+               G        AD
 Blijf ik je altijd trouw (4x)
