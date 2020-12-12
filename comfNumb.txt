@@ -1,8 +1,11 @@
 [Intro]
 
 [Verse 1: Roger Waters]
+Strofe 1
 Hello? (Hello, hello, hello)
+Strofe 1
 Is there anybody in there?
+Strofe 1
 Just nod if you can hear me
 Is there anyone home?
 Come on (Come on, come on), now
@@ -15,6 +18,7 @@ Just the basic facts
 Can you show me where it hurts?
 
 [Pre-Chorus 1: David Gilmour]
+// is dit strofe of refrein???
 There is no pain, you are receding
 A distant ship, smoke on the horizon
 You are only coming through in waves
@@ -34,6 +38,7 @@ I have become comfortably numb
 I have become comfortably numb
 
 [Verse 2: Roger Waters]
+// Is dit strofe of refrein
 Okay (Okay, okay, okay)
 Just a little pinprick
 There'll be no more
